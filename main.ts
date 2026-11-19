@@ -1,0 +1,5 @@
+music.play(music.stringPlayable("C5 C B D A E G F ", 120), music.PlaybackMode.UntilDone)
+music.play(music.stringPlayable("C D E F G A B C5 ", 120), music.PlaybackMode.UntilDone)
+music.play(music.stringPlayable("C5 C B D A E G F ", 120), music.PlaybackMode.UntilDone)
+music.play(music.stringPlayable("C D E F G A B C5 ", 120), music.PlaybackMode.UntilDone)
+radio.setGroup(218)
